@@ -1,0 +1,20 @@
+<codestructure version="5.13">
+<phptree>
+<treenode node="../dbcon.php;PHP:PHP Include;D:\wamp\www\quiz\play_game\play.php;f12;2;24;2;;D:\wamp\www\quiz\admin\updatequestion.php;f10;22;22;22;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../dbcon.php;PHP:PHP Include;D:\wamp\www\quiz\admin\updateq.php;f11;35;23;35;;D:\wamp\www\quiz\admin\updatedata.php;f10;2;22;2;;D:\wamp\www\quiz\admin\insertq.php;f10;47;22;47;;D:\wamp\www\quiz\admin\deletequestion.php;f11;1;23;1;;D:\wamp\www\quiz\admin\deleteq.php;f11;35;23;35;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="dbcon.php;PHP:PHP Include;D:\wamp\www\quiz\login.php;f9;35;18;35;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="user/userlogin.php;PHP:PHP Include;D:\wamp\www\quiz\index.php;f9;27;27;27;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="user_register.php;PHP:PHP Include;D:\wamp\www\quiz\user\registration.php;f9;38;26;38;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="loginpage;PHP:Function Name;D:\wamp\www\quiz\user\userlogin.php;f0;1;1;27;;;;vpos;;v;;r;;d0,2;;b0,0;;m">
+</treenode>
+<treenode node="register;PHP:Function Name;D:\wamp\www\quiz\user\user_register.php;f1;1;2;32;;;;vpos;;v;;r;;d1,2;;b0,0;;m">
+<treenode node="../dbcon.php;PHP:PHP Include;D:\wamp\www\quiz\user\user_register.php;f12;5;24;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+</treenode>
+</phptree>
+</codestructure>

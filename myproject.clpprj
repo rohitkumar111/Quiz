@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="D:\wamp\www\quiz\myproject.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/quiz/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/quiz/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="D:\wamp\www\quiz\play_game\play.php"/>
+		<file name="D:\wamp\www\quiz\user\user_block.php"/>
+		<file name="D:\wamp\www\quiz\admin\updatequestion.php"/>
+		<file name="D:\wamp\www\quiz\user\user_register.php"/>
+	</lastopfiles>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="D:\wamp\www\quiz\user\userlogout.php" crc="1516030956"/>
+		<file name="D:\wamp\www\quiz\user\userlogin.php" crc="1521310697"/>
+		<file name="D:\wamp\www\quiz\user\user_register.php" crc="1520611319"/>
+		<file name="D:\wamp\www\quiz\user\user_block.php" crc="1523030757"/>
+		<file name="D:\wamp\www\quiz\user\registration.php" crc="1520778357"/>
+		<file name="D:\wamp\www\quiz\play_game\play.php" crc="1523033813"/>
+		<file name="D:\wamp\www\quiz\admin\updatequestion.php" crc="1516954928"/>
+		<file name="D:\wamp\www\quiz\admin\updateq.php" crc="1516948976"/>
+		<file name="D:\wamp\www\quiz\admin\updatedata.php" crc="1516957549"/>
+		<file name="D:\wamp\www\quiz\admin\insertq.php" crc="1519916734"/>
+		<file name="D:\wamp\www\quiz\admin\deletequestion.php" crc="1516897746"/>
+		<file name="D:\wamp\www\quiz\admin\deleteq.php" crc="1518104019"/>
+		<file name="D:\wamp\www\quiz\admin\admindash.php" crc="1516634467"/>
+		<file name="D:\wamp\www\quiz\quiz.sql" crc="1521896108"/>
+		<file name="D:\wamp\www\quiz\logout.php" crc="1516634618"/>
+		<file name="D:\wamp\www\quiz\login.php" crc="1518019008"/>
+		<file name="D:\wamp\www\quiz\index.php" crc="1521310028"/>
+		<file name="D:\wamp\www\quiz\header.php" crc="1516030553"/>
+		<file name="D:\wamp\www\quiz\dbcon.php" crc="1516458416"/>
+	</filescache>
+</project>
